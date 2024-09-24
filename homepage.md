@@ -1,4 +1,7 @@
-# Iris Chen's Home Page
-Here is my home page!
+# Iris Chen's Detailed Information
+Date of Birth: November 9, 2002
 
-Here is README
+Sign: Scorpio
+
+Favorite fruit: Durian
+
