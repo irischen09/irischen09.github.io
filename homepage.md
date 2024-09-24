@@ -5,3 +5,7 @@ Sign: Scorpio
 
 Favorite fruit: Durian
 
+Hobbies: Watching movies, shooting photos, dancing, playing games
+
+Ult: Xdinary Heroes
+
