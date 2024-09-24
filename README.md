@@ -1,7 +1,7 @@
 # irischen09.github.io
-This is README. But there's no important information.
+Hi there! This is Iris, welcome to my home page!
 
-## Here is a secondary level
-Look what will happen
+## Here are something about me!
+My information:
 * item one
 * item two
