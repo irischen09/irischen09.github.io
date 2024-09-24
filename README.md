@@ -1,4 +1,4 @@
-# Welcome to my Website
+# Welcome to my website
 Hi there! This is Iris, welcome to my home page!
 
 ## Here are something about me!
